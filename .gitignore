@@ -8,6 +8,7 @@ vgg16/
 checkpoints/
 *checkpoint*
 logs/
+mlruns/
 
 summary/
 
