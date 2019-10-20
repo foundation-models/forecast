@@ -1,5 +1,8 @@
 name: forecast
-conda_env: conda.yaml
+
+# conda_env: conda.yaml
+docker-env:
+    image: vitachain/forecast
 
 entry_points:
   main:
